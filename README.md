@@ -1,6 +1,6 @@
-# Bianca — Responsive Creative Designer Portfolio Website
+# Codeine — Responsive Creative Designer Portfolio Website
 
-A luxury, fully responsive portfolio website for **Bianca**, built from scratch using **React.js, Mobile-First CSS, CSS Variables, EmailJS integration, Custom Cursor mechanics, and Smooth Scroll animations**.
+A luxury, fully responsive portfolio website for **Codeine**, built from scratch using **React.js, Mobile-First CSS, CSS Variables, EmailJS integration, Custom Cursor mechanics, and Smooth Scroll animations**.
 
 ---
 
@@ -80,5 +80,5 @@ To link your live EmailJS account:
 ---
 
 ## 🎨 Credits & Attribution
-- Design inspiration & structure based on Bedimcode's Bianca portfolio concept.
+- Design inspiration & structure based on Bedimcode's Codeine portfolio concept.
 - Copyright: `© All Rights Reserved By Bedimcode`.
