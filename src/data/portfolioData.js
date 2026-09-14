@@ -1,24 +1,25 @@
 // Portfolio data for Bianca - Creative Designer & Art Director
 
 export const personalInfo = {
-  name: "Bianca",
-  surname: "Vance",
-  fullName: "Bianca Vance",
-  profession: "Creative Designer & Art Director",
+  name: "Codiene",
+  // surname: "",
+  fullName: "Codiene",
+  profession: "Creative Designer & responsive Website Developer",
   tagline: "Crafting digital experiences, visual identities, and interactive designs that elevate brands worldwide.",
-  location: "San Francisco, California, USA",
-  email: "bianca.designer@domain.com",
-  phone: "+1 (555) 234-5678",
-  whatsapp: "+15552345678",
-  experienceYears: "7+",
-  completedProjects: "140+",
-  satisfiedClients: "95+",
-  awardsWon: "12",
+  location: "Greater Noida, India",
+  email: "codeinee07@gmail.com",
+  phone: "+91 9889816404",
+  whatsapp: "+91 9889816404",
+  experienceYears: "1+",
+  completedProjects: "5+",
+  satisfiedClients: "5+",
+  // awardsWon: "12",
   mapUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100939.98555098464!2d-122.5076402!3d37.757815!2m3!1f0!2f0!3f0!3m2!1i1024!2f768!4f13.1!3m3!1m2!1s0x80859a6d00690021%3A0x4a501367f076adff!2sSan%20Francisco%2C%20CA!5e0!3m2!1sen!2sus!4v1690000000000!5m2!1sen!2sus",
+  // mapUrl: "https://www.google.com/maps/place/Greater+Noida,+Uttar+Pradesh/@28.4580361,77.4933004,1455m/data=!3m1!1e3!4m6!3m5!1s0x390cea64b8f89aef:0xec0ccabb5317962e!8m2!3d28.4743879!4d77.5039904!16zL20vMGN3OXEy?entry=ttu&g_ep=EgoyMDI2MDkwOS4wIKXMDSoASAFQAw%3D%3D",
   socialLinks: {
     facebook: "https://www.facebook.com/bedimcode",
-    instagram: "https://www.instagram.com/bedimcode/",
-    linkedin: "https://www.linkedin.com/",
+    instagram: "https://www.instagram.com/codeine.tech/",
+    linkedin: "https://www.linkedin.com/company/codeinetech",
     github: "https://github.com/bedimcode"
   }
 };

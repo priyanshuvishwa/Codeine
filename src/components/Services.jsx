@@ -33,7 +33,7 @@ const Services = () => {
   return (
     <section className="services section" id="services">
       <h2 className="section__title">Services <span>Offered</span></h2>
-      <span className="section__subtitle">What I Provide For Clients</span>
+      <span className="section__subtitle">What We Provide For Clients</span>
 
       <div className="services__container container grid">
         {servicesData.map((service) => {

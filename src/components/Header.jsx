@@ -56,7 +56,7 @@ const Header = () => {
     <header className={`header ${isScrolled ? 'header--scrolled' : ''}`} id="header">
       <nav className="nav container">
         <a href="#home" className="nav__logo" onClick={closeMenu}>
-          Bianca<span>.</span>
+          Codeine
         </a>
 
         {/* Mobile menu wrapper */}
