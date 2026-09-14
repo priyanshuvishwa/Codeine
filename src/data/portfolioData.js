@@ -20,7 +20,7 @@ export const personalInfo = {
     facebook: "https://www.facebook.com/bedimcode",
     instagram: "https://www.instagram.com/codeine.tech/",
     linkedin: "https://www.linkedin.com/company/codeinetech",
-    github: "https://github.com/bedimcode"
+    github: "https://github.com/codeine-tech"
   }
 };
 
