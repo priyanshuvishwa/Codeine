@@ -21,7 +21,7 @@ const Home = () => {
           </span>
 
           <h1 className="home__title">
-            Hello, I'm <span>{personalInfo.name}</span>
+            Hello, We're <span>{personalInfo.name}</span>
           </h1>
 
           <p className="home__description">

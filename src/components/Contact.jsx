@@ -189,12 +189,13 @@ const Contact = () => {
           {/* <!-- Share -> Copy link --> */}
           <div className="contact__map">
             <iframe
-              title="Bianca Studio Location"
+              title="Codeine Studio Location"
               src={personalInfo.mapUrl}
               allowFullScreen=""
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-            />
+            >
+            </iframe>
           </div>
         </div>
 
