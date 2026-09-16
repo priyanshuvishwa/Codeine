@@ -33,7 +33,7 @@ const Footer = () => {
         {/* Social Links */}
         <div className="footer__social">
           <a
-            href="https://www.facebook.com/bedimcode"
+            href="https://www.facebook.com/profile.php?id=61594104881474"
             target="_blank"
             rel="noopener noreferrer"
             className="footer__social-link"
