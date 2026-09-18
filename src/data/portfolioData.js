@@ -14,8 +14,7 @@ export const personalInfo = {
   completedProjects: "5+",
   satisfiedClients: "5+",
   // awardsWon: "12",
-  mapUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100939.98555098464!2d-122.5076402!3d37.757815!2m3!1f0!2f0!3f0!3m2!1i1024!2f768!4f13.1!3m3!1m2!1s0x80859a6d00690021%3A0x4a501367f076adff!2sSan%20Francisco%2C%20CA!5e0!3m2!1sen!2sus!4v1690000000000!5m2!1sen!2sus",
-  // mapUrl: "https://www.google.com/maps/place/Greater+Noida,+Uttar+Pradesh/@28.4580361,77.4933004,1455m/data=!3m1!1e3!4m6!3m5!1s0x390cea64b8f89aef:0xec0ccabb5317962e!8m2!3d28.4743879!4d77.5039904!16zL20vMGN3OXEy?entry=ttu&g_ep=EgoyMDI2MDkwOS4wIKXMDSoASAFQAw%3D%3D",
+  mapUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14029.870181045733!2d77.4860042509886!3d28.465463025757874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cc1ddf6c8ca4d%3A0x39cd180a5b56bff8!2sKnowledge%20Park%20II%2C%20Greater%20Noida%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1789770500986!5m2!1sen!2sin",
   socialLinks: {
     facebook: "https://www.facebook.com/profile.php?id=61594104881474",
     instagram: "https://www.instagram.com/codeine.tech/",
