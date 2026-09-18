@@ -33,7 +33,7 @@ const Footer = () => {
         {/* Social Links */}
         <div className="footer__social">
           <a
-            href="https://www.facebook.com/bedimcode"
+            href="https://www.facebook.com/profile.php?id=61594104881474"
             target="_blank"
             rel="noopener noreferrer"
             className="footer__social-link"
@@ -42,7 +42,7 @@ const Footer = () => {
             <Facebook size={18} />
           </a>
           <a
-            href="https://www.instagram.com/bedimcode/"
+            href="https://www.instagram.com/codeine.tech/"
             target="_blank"
             rel="noopener noreferrer"
             className="footer__social-link"
@@ -51,7 +51,7 @@ const Footer = () => {
             <Instagram size={18} />
           </a>
           <a
-            href="https://www.linkedin.com/"
+            href="https://www.linkedin.com/company/codeinetech"
             target="_blank"
             rel="noopener noreferrer"
             className="footer__social-link"
@@ -60,7 +60,7 @@ const Footer = () => {
             <Linkedin size={18} />
           </a>
           <a
-            href="https://github.com/bedimcode"
+            href="https://github.com/codeine-tech"
             target="_blank"
             rel="noopener noreferrer"
             className="footer__social-link"
